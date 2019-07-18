@@ -1,1 +1,126 @@
-theme: jekyll-theme-architect
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/estelle-se-reinvente/assets/css/style.css?v=edc37a7e968bd4735932f0624d44880f94d02c38" media="screen" type="text/css">
+    <link rel="stylesheet" href="/estelle-se-reinvente/assets/css/print.css" media="print" type="text/css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Welcome to GitHub Pages | estelle-se-reinvente</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Welcome to GitHub Pages" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Ma première page web va t’elle me permettre de m’ouvrir les portes d’une nouvelle vie ?" />
+<meta property="og:description" content="Ma première page web va t’elle me permettre de m’ouvrir les portes d’une nouvelle vie ?" />
+<link rel="canonical" href="https://estelle08-design.github.io/estelle-se-reinvente/" />
+<meta property="og:url" content="https://estelle08-design.github.io/estelle-se-reinvente/" />
+<meta property="og:site_name" content="estelle-se-reinvente" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"https://estelle08-design.github.io/estelle-se-reinvente/","headline":"Welcome to GitHub Pages","name":"estelle-se-reinvente","description":"Ma première page web va t’elle me permettre de m’ouvrir les portes d’une nouvelle vie ?","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <a href="https://estelle08-design.github.io/estelle-se-reinvente/">
+          <h1>Estelle se réinvente !</h1>
+        </a>
+        <h2>Ma première page web va t'elle me permettre de m'ouvrir les portes d'une nouvelle vie ?</h2>
+        
+          <a href="https://github.com/Estelle08-design/estelle-se-reinvente" class="button"><small>View project on</small> GitHub</a>
+        
+        
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h2 id="welcome-to-my-avenir">Bienvenu dans ce que sera demain pour moi</h2>
+
+<p>Envie de changer de vie et de pouvoir aller au travail avec entrain et plaisir, je désir me lancer dans une formation qui me permette de joindre l'utile (devoir travailler) à l'agréable (pouvoir m'éclater à réaliser le travail qui m'est demandé)</p>
+
+<p>Un bilan de compétences chez <a href="https://www.mutaction.com/">Mutaction</a> m'a ouvert les yeux et informé de ce que le CEFIM <a href="https://www.cefim.eu/">CEFIM</a> pouvait me proposer en vue de trouver un emploi plus épanouissant pour moi.</p>
+
+<h3 id="my passed">Moi avant</h3>
+
+<p>Ma vie est faite de divers métiers dans divers villes, sans jamais arriver à trouver ma voie</p>
+
+<p>Des études dans le domaine scientifique sans pour autant y travailler par la suite. Une reconversion dans le commerce avec quelques belles années dans ce domaine. Puis retour en laboratoire, à la paillasse à faire un travail dont j'ai vite fait le tour.</p>
+
+<p>Jusqu'à prendre le relais, au pied levé, d'un collègue qui était parti. Administrer une base de laboratoire développée spécifiquement pour les laboratoires !</p>
+
+<p>Comme je n'ai pas mes yeux dans ma poche et que je suis d'un naturel curieux (normal, je suis une femme !). J'ai fini par demander à un de mes homologue comment on faisait si ou ça. C'est ainsi que j'ai mis le doigt dans l'engrenage. J'ai trouvé la porte cahcée, un peu comme Alice !</p>
+
+<p>Des lignes d'un charabia incompréhensible. (base de donnée sous oracle en je ne sais quel langage) Mais pourquoi ces espaces ? Et c'est quoi ces mots qui ne veulent rien dire ? Des tables, des jointures.... Mon dieu, dans quoi me suis-je aventurée !!!</p>
+
+<p>Puis, j'ai cherché comment faire apparaître des données qui n'apparaîssaient pas car pas validées. Puis où se trouve l'erreur qui nous donne ce message. Puis "tiens, si je faisais un petit bouton qui m'emène sur cette page directement au lieu de tout refermer !" alors comment fonctionne ce bouton qui fait la même action mais ne m'emène pas sur la page que je veux ?</p>
+
+<p>Et voilà, le virus est entré en moi. Un peu comme un alien qui maintenant ne demande qu'à sortir</p>
+
+<p>Quand j'ai commencé à administrer la base de donnée, je ne pensais pas pouvoir m'en sortir puis de bidouille en bidouille, je me débrouille pour rendre le truc un peu plus convivial. Mais sans formation, j'ai atteint mes limites et ça me frustre terriblement.</p>
+
+<p>Il y a un potentiel. Pour peu que je puisse avoir les bases. Qu'on mexplique comment ça fonctionne, un peu comme on apprend, enfant, à écrire. Aujourd'hui, j'ai plaisir à écrire et lire. Demain, j'aurai plaisir à créer des pages web qui satisfont les clients. Des pages qui leur ressemble. Le plaisir de leur apporter ce qu'ils ne peuvent pas faire car ce n'est pas leur domaine.</p>
+
+
+
+<p>Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Syntax highlighted code block
+
+<span class="gh"># Header 1</span>
+<span class="gu">## Header 2</span>
+<span class="gu">### Header 3</span>
+<span class="p">
+-</span> Bulleted
+<span class="p">-</span> List
+<span class="p">
+1.</span> Numbered
+<span class="p">2.</span> List
+
+<span class="gs">**Bold**</span> and _Italic_ and <span class="sb">`Code`</span> text
+
+<span class="p">[</span><span class="nv">Link</span><span class="p">](</span><span class="sx">url</span><span class="p">)</span> and !<span class="p">[</span><span class="nv">Image</span><span class="p">](</span><span class="sx">src</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>For more details see <a href="https://guides.github.com/features/mastering-markdown/">GitHub Flavored Markdown</a>.</p>
+
+
+
+<h3 id="reseaux">Mes réseaux</h3>
+
+<p>Quoi de mieux pour connaitre une personne, à l'ère du tout numérique, que ses réseaux. <a href="https://www.linkedin.com/in/estelle-emond-38797b189/">LinkedIn</a>.</p>
+
+<p>Sur un plan professionnel, il semble que je n'utilise pas les réseaux. Je ne suis pas une acharnée des jeux vidéos et ne le serais probablement jamais. Je ne suis pas une geek mais parce que je ne me suis jamais permise de croire que j'étais capable de programmer.</p>
+
+<p>Et je me connais assez pour savoir qu'il ne faut pas que je mette le nez dans un truc qui me plait, sans quoi, j'y met tout le reste. Je m'investi pleinement jusqu'à arriver à ce que je souhaite.</p>
+
+<h3 id="support-or-contact">Support or Contact</h3>
+
+<p>Having trouble with Pages? Check out our <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
+
+        </section>
+
+        <aside id="sidebar">
+          
+
+          
+            <p class="repo-owner"><a href="https://github.com/Estelle08-design/estelle-se-reinvente">estelle-se-reinvente</a> is maintained by <a href="https://github.com/Estelle08-design">Estelle08-design</a>.</p>
+          
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</p>
+        </aside>
+      </div>
+    </div>
+
+    
+  </body>
+</html>
