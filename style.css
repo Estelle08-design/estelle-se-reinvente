@@ -1,0 +1,101 @@
+#Banniere
+{
+	position: relative;
+	bottom: 0;
+	border-radius: 20px;
+	width: 99.5%;
+	height : 250px;
+	padding-top: 5px;
+	padding-left: 4px;
+	background-color: rgba(62, 173, 228, 0.6);
+	text-align: center;
+}
+#conteneur
+{
+	display: flex;
+	justify-content: space-around;
+}
+#reseaux, #loisirs
+{
+	max-height: 50%;
+	width: 500px;
+}
+.imageflottante
+{
+	float: left;
+}
+.dessous
+{
+	clear: both;
+}
+.delpharm
+{
+	margin-top: 85px;
+}
+.starlims
+{
+	margin-top: 15px;
+}
+body
+{
+	background-image: url(mer.png);
+	background-repeat: no-repeat;
+	background-size: 150%;
+}
+p
+{
+	color : #4B0082;
+	text-align: justify;
+}
+h1
+{
+	color : #4B0082;
+	font-size: 60px;
+	text-shadow: 6px 6px 8px black;
+}
+h2
+{
+	color : navy;
+	text-shadow: 6px 6px 8px black;
+	
+}
+h3
+{
+	color: navy;
+	text-shadow: 6px 6px 8px black;
+}
+section
+{
+	display: inline-block;
+}
+article, aside
+{
+	display: inline-block;
+	vertical-align: top;
+	text-align: justify;
+}
+article
+{
+	width: 1300px;
+	margin-right: 15px;
+}
+aside
+{
+	position: relative;
+	width: 150px;
+	height: 850px;
+	background-color: rgba(112, 62, 228, 0.6);
+	border-radius: 20px;
+	padding: 10px;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+footer
+{
+	background-color: rgba(117, 92, 174, 0.6);
+	border-radius: 20px;
+	margin-top: 30px;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
